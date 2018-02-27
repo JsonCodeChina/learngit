@@ -1,1 +1,3 @@
-here is a git test
+git is free software
+here is git learing
+here is test
